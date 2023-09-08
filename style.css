@@ -1,3 +1,7 @@
-body{
-    
+header {
+    background-color: aqua;
+}
+
+.slider {
+    background-color: red;
 }
